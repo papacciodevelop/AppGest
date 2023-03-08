@@ -21,5 +21,5 @@ WorkersAdapter
 Esta clase se encarga de crear un adaptador para el RecyclerView utilizado en la MainActivity. La clase define un ViewHolder que contiene los elementos de la vista de cada elemento en la lista (nombre, turno, puesto y botón de eliminación), y sobrescribe los métodos necesarios de RecyclerView.Adapter para mostrar los elementos de la lista de trabajadores en la vista.
 En particular, el método onBindViewHolder() asigna los valores de nombre, turno y puesto a los elementos TextView correspondientes en el ViewHolder, y define un OnClickListener para el botón de eliminación que elimina el trabajador de la base de datos y actualiza la lista de trabajadores en la vista. El método getItemCount() devuelve el número total de elementos en la lista.
 
-![cap1](AppGest/capturas/cap1.png)
-![cap1](AppGest/capturas/cap2.png)
+(AppGest/capturas/cap1.png)
+(AppGest/capturas/cap2.png)
