@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">AppGest</string>
+
+        <string name="seleccionar_turno">Seleccionar turno</string>
+        <string-array name="turnos">
+            <item>Mañana</item>
+            <item>Tarde</item>
+            <item>Noche</item>
+        </string-array>
+
+    <string name="text_01Toast">Los datos no pueden estar vacíos</string>
+    <string name="text_02Toast">Trabajador Añadido</string>
 </resources>
