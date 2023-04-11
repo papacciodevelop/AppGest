@@ -1,5 +1,5 @@
 # AppGest
- Gestión de trabajadores-CCR & JM
+ Gestión de trabajadores-CCR
 
 AddWorler
 
